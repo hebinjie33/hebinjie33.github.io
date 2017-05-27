@@ -2,14 +2,14 @@
 title: Hanson
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "Hanson|Think Different"  
+description: "Blog of Binjie He/Form Fuzhou University/Computer Science/SDN NFV"  
 baseurl: ""
 url: "http://zyphs21.github.io"  
 
 # About/contact
 owner: 
-  name: "张远平"
-  email: yuanpingzhang123@gmail.com
+  name: "何斌杰"
+  email: 275640880@qq.com
   bio: ""
 
 # Data
@@ -18,10 +18,10 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: zyphs21
-weibo_username: 汉森HS
+github_username: hebinjie33
+weibo_username: 
 facebook_username:
-zhihu_username: zhang-yi-sen-46
+zhihu_username: 
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -34,7 +34,7 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Asia/Shanghai
+timezone: Asia/Fuzhou
 
 # Defaults for posts
 defaults:
@@ -44,16 +44,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "hanson"
+      author: "Binjie He"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
-  provider : duoshuo
+  provider : Binjie He
   duoshuo :
-    short_name : hanson
+    short_name : Binjie He
   disqus :
-      short_name : hanson
+      short_name : Binjie He
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
